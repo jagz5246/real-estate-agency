@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/real-estate-agency/static/css/main.d4082ff2.css",
+    "main.js": "/real-estate-agency/static/js/main.40902d1c.js",
+    "static/media/houseCard.png": "/real-estate-agency/static/media/houseCard.b164fdcab9974e15c6c3.png",
+    "static/media/image1.png": "/real-estate-agency/static/media/image1.a91171abd2c846f088ab.png",
+    "static/media/image3.png": "/real-estate-agency/static/media/image3.46d371a99313f7e49461.png",
+    "static/media/logos.png": "/real-estate-agency/static/media/logos.1316ef50d84b10ee5041.png",
+    "static/media/image2.png": "/real-estate-agency/static/media/image2.f191b993bad07dd4bd02.png",
+    "static/media/logo.png": "/real-estate-agency/static/media/logo.240f25a2df52fca1c226.png",
+    "static/media/hero_illustration.png": "/real-estate-agency/static/media/hero_illustration.afabab90d016e1e52e62.png",
+    "static/media/illustration.png": "/real-estate-agency/static/media/illustration.0342199a2428a6c999de.png",
+    "index.html": "/real-estate-agency/index.html",
+    "main.d4082ff2.css.map": "/real-estate-agency/static/css/main.d4082ff2.css.map",
+    "main.40902d1c.js.map": "/real-estate-agency/static/js/main.40902d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4082ff2.css",
+    "static/js/main.40902d1c.js"
+  ]
+}
